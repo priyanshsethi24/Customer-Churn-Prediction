@@ -1,1 +1,3 @@
 # Customer-Churn-Prediction
+
+This project involves creating a machine learning model to predict customer churn with an 85% accuracy. The model utilizes customer data to identify critical factors affecting churn. Various classification algorithms, such as logistic regression, decision trees, and random forests, were explored and fine-tuned for optimal results. The goal is to provide businesses with actionable insights to reduce churn and improve customer retention. Technologies used include Python, scikit-learn, Pandas, NumPy, and Matplotlib. The repository contains the code, analysis, and results visualizations.
